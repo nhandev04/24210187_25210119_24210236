@@ -5,9 +5,14 @@
 **Giảng viên hướng dẫn:** Hà Lê Hoài Trung  
 **Mã số sinh viên:** 24210187 - 25210119 - 24210236
 
-# LỜI MỞ ĐẦU #
+# LỜI MỞ ĐẦU
 Trong bối cảnh nền kinh tế số và cạnh tranh toàn cầu hiện nay, quản trị quy trình nghiệp vụ (Business Process Management - BPM) đã trở thành công cụ cốt lõi giúp các doanh nghiệp nâng cao năng lực cạnh tranh, tối ưu hóa chi phí và linh hoạt thích ứng với sự thay đổi của thị trường. Là doanh nghiệp chế biến sữa hàng đầu Việt Nam nằm trong Top 40 công ty sữa lớn nhất thế giới, Công ty Cổ phần Sữa Việt Nam (Vinamilk) đang không ngừng đẩy mạnh chiến lược chuyển đổi số toàn diện.
 Tuy nhiên, với quy mô vận hành khổng lồ gồm hàng chục trang trại, nhà máy và hệ thống phân phối rộng khắp, việc duy trì tính hiệu quả, đồng bộ và loại bỏ lãng phí trong các quy trình nghiệp vụ là một thách thức lớn. Đề tài "Nghiên cứu, mô hình hóa và phân tích hệ thống quy trình nghiệp vụ tại Công ty Cổ phần Sữa Việt Nam (Vinamilk)" được thực hiện nhằm xây dựng bức tranh tổng thể về kiến trúc quy trình (Process Architecture), ứng dụng chuẩn BPMN để mô hình hóa chi tiết các quy trình đại diện, đồng thời áp dụng các phương pháp phân tích định tính và định lượng nhằm đề xuất giải pháp cải tiến tối ưu.
 
-# Chương 1. GIỚI THIỆU CÔNG TY VINAMILK #
-## 1.1. Tổng quan về Vinamilk ##
+# Chương 1. GIỚI THIỆU CÔNG TY VINAMILK
+
+## 1.1. Tổng quan về Vinamilk
+<img width="1920" height="1008" alt="VINAMILK_PICS_1" src="https://github.com/user-attachments/assets/57f6b33a-0e7a-4638-a5cb-137b353361d8" />
+<p align="center">Hình 1.1 Hình ảnh công ty Vinamilk</p>
+
+### 1.1.1. Lịch sử hình thành và phát triển
