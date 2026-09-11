@@ -45,21 +45,35 @@ Nhìn chung, mô hình “Ngôi nhà kiến trúc quy trình” cho thấy mỗi
          Nhóm quy trình Quản lý (Management Processes) là nhóm các quy trình có vai trò định hướng, kiểm soát và theo dõi các hoạt động quan trọng trong doanh nghiệp. Nếu các quy trình Cốt lõi tập trung trực tiếp vào việc tạo ra sản phẩm, cung cấp dịch vụ và phục vụ khách hàng, thì các quy trình Quản lý giúp doanh nghiệp đảm bảo những hoạt động đó được thực hiện trong điều kiện phù hợp, có kiểm soát và bám sát mục tiêu đã đề ra.
 Trong mô hình “Ngôi nhà kiến trúc quy trình” của Vinamilk, nhóm Quản lý được đặt ở phần mái nhà, thể hiện vai trò quản lý và giám sát đối với toàn bộ hệ thống. Trong phạm vi nghiên cứu, nhóm này gồm ba quy trình: Quy trình quản lý và giám sát an toàn lao động; Quy trình phê duyệt kế hoạch tuyển dụng nhân sự hàng năm; và Quy trình đánh giá hiệu suất Nhà Phân Phối định kỳ. Ba quy trình tuy thuộc các lĩnh vực khác nhau nhưng cùng hướng đến mục tiêu duy trì sự ổn định, kiểm soát rủi ro và nâng cao hiệu quả hoạt động của doanh nghiệp.
 
-            - 2.1.1.1 Quy trình quản lý và giám sát an toàn lao động
-                - 2.1.1.1.1 Mô tả quy trình
+       - 2.1.1.1 Quy trình quản lý và giám sát an toàn lao động
+         
+         - 2.1.1.1.1 Mô tả quy trình
                    
-                  Quy trình quản lý và giám sát an toàn lao động được thực hiện nhằm đảm bảo môi trường làm việc an toàn cho người lao động tại các nhà máy, trang trại và các cơ sở vận hành của Vinamilk. Do đặc thù hoạt động liên quan đến sản xuất, kho vận và chăn nuôi, việc kiểm soát các nguy cơ mất an toàn cần được thực hiện thường xuyên thay vì chỉ xử lý khi sự cố đã xảy ra. Vì vậy, quy trình tập trung vào việc thiết lập các yêu cầu an toàn, đào tạo người lao động, kiểm tra thực tế, ghi nhận rủi ro và thực hiện các biện pháp khắc phục.
+           Quy trình quản lý và giám sát an toàn lao động được thực hiện nhằm đảm bảo môi trường làm việc an toàn cho người lao động tại các nhà máy, trang trại và các cơ sở vận hành của Vinamilk. Do đặc thù hoạt động liên quan đến sản xuất, kho vận và chăn nuôi, việc kiểm soát các nguy cơ mất an toàn cần được thực hiện thường xuyên thay vì chỉ xử lý khi sự cố đã xảy ra. Vì vậy, quy trình tập trung vào việc thiết lập các yêu cầu an toàn, đào tạo người lao động, kiểm tra thực tế, ghi nhận rủi ro và thực hiện các biện pháp khắc phục.
                   
-                  Quy trình được bắt đầu bằng việc Ban An toàn - Sức khỏe - Môi trường (HSE) xây dựng hoặc cập nhật kế hoạch và các yêu cầu về an toàn lao động. Các tiêu chuẩn được phổ biến đến những đơn vị có liên quan để làm cơ sở thực hiện và kiểm tra trong quá trình vận hành.  
+           Quy trình được bắt đầu bằng việc Ban An toàn - Sức khỏe - Môi trường (HSE) xây dựng hoặc cập nhật kế hoạch và các yêu cầu về an toàn lao động. Các tiêu chuẩn được phổ biến đến những đơn vị có liên quan để làm cơ sở thực hiện và kiểm tra trong quá trình vận hành.  
 
-                    Tiếp theo, người lao động được đào tạo và phổ biến các quy định về an toàn lao động. Hoạt động này đặc biệt quan trọng đối với nhân viên mới, đồng thời cần được thực hiện định kỳ đối với nhân viên đang làm việc nhằm duy trì ý thức tuân thủ và cập nhật các yêu cầu mới.  
+           Tiếp theo, người lao động được đào tạo và phổ biến các quy định về an toàn lao động. Hoạt động này đặc biệt quan trọng đối với nhân viên mới, đồng thời cần được thực hiện định kỳ đối với nhân viên đang làm việc nhằm duy trì ý thức tuân thủ và cập nhật các yêu cầu mới.  
 
-                    Sau khi các yêu cầu được phổ biến, bộ phận HSE phối hợp với quản lý tại các đơn vị tiến hành kiểm tra và giám sát thực tế. Việc kiểm tra có thể được thực hiện theo kế hoạch hoặc đột xuất tại các khu vực như nhà máy, kho vận, khu vực sản xuất và trang trại. Trong quá trình kiểm tra, các vấn đề liên quan đến điều kiện làm việc, trang thiết bị bảo hộ, máy móc và các nguy cơ mất an toàn được ghi nhận.  
+           Sau khi các yêu cầu được phổ biến, bộ phận HSE phối hợp với quản lý tại các đơn vị tiến hành kiểm tra và giám sát thực tế. Việc kiểm tra có thể được thực hiện theo kế hoạch hoặc đột xuất tại các khu vực như nhà máy, kho vận, khu vực sản xuất và trang trại. Trong quá trình kiểm tra, các vấn đề liên quan đến điều kiện làm việc, trang thiết bị bảo hộ, máy móc và các nguy cơ mất an toàn được ghi nhận.  
 
-                    Khi phát hiện rủi ro hoặc hành vi chưa tuân thủ, bộ phận phụ trách tiến hành đánh giá mức độ ảnh hưởng và yêu cầu đơn vị liên quan thực hiện biện pháp khắc phục. Đối với những vấn đề nghiêm trọng hoặc sự cố xảy ra trong thực tế, việc điều tra nguyên nhân và báo cáo cấp quản lý được thực hiện để xác định biện pháp xử lý phù hợp, đồng thời hạn chế khả năng sự cố tương tự tái diễn.  
+           Khi phát hiện rủi ro hoặc hành vi chưa tuân thủ, bộ phận phụ trách tiến hành đánh giá mức độ ảnh hưởng và yêu cầu đơn vị liên quan thực hiện biện pháp khắc phục. Đối với những vấn đề nghiêm trọng hoặc sự cố xảy ra trong thực tế, việc điều tra nguyên nhân và báo cáo cấp quản lý được thực hiện để xác định biện pháp xử lý phù hợp, đồng thời hạn chế khả năng sự cố tương tự tái diễn.  
 
-                - 2.1.1.1.2 Các tác nhân tham gia quy trình
-                - 2.1.1.1.3 Khách hàng của quy trình
+          - 2.1.1.1.2 Các tác nhân tham gia quy trình  
+            Ban An toàn - Sức khỏe - Môi trường (HSE): Là đơn vị chịu trách nhiệm chính trong việc xây dựng yêu cầu an toàn, tổ chức đào tạo, kiểm tra hiện trường, ghi nhận và theo dõi các vấn đề phát sinh.
+            
+            Quản đốc nhà máy / Trưởng bộ phận trang trại / Giám sát vận hành: Phối hợp với HSE trong quá trình kiểm tra tại đơn vị, đồng thời chịu trách nhiệm tổ chức khắc phục các vấn đề được phát hiện.
+            
+            Cán bộ, công nhân viên và người lao động trực tiếp: Là những người trực tiếp thực hiện các quy định về an toàn lao động trong quá trình làm việc, tham gia đào tạo và phối hợp khi có hoạt động kiểm tra.
+            
+            Ban Điều hành: Tham gia xem xét đối với các trường hợp vi phạm hoặc sự cố có mức độ nghiêm trọng, đặc biệt khi cần đưa ra quyết định hoặc biện pháp xử lý ở phạm vi toàn doanh nghiệp.  
+
+           - 2.1.1.1.3 Khách hàng của quy trình
+             
+             Khách hàng nội bộ: Toàn thể cán bộ, công nhân viên và người lao động tại Vinamilk. Đây là nhóm nhận được giá trị trực tiếp từ quy trình thông qua việc được làm việc trong môi trường an toàn, các nguy cơ được nhận diện và xử lý kịp thời.
+             
+             Khách hàng bên ngoài: Các cơ quan quản lý nhà nước có liên quan đến lĩnh vực lao động, an toàn và sức khỏe nghề nghiệp; ngoài ra có thể bao gồm các tổ chức đánh giá hoặc chứng nhận khi doanh nghiệp thực hiện các hoạt động đánh giá theo tiêu chuẩn liên quan.  
+
                 - 2.1.1.1.4 Những kết quả có thể đạt được của quy trình
             - 2.1.1.2 Quy trình phê duyệt kế hoạch tuyển dụng nhân sự hàng năm
                 - 2.1.1.2.1 Mô tả quy trình
