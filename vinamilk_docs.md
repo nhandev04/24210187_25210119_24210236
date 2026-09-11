@@ -28,10 +28,36 @@ Tuy nhiên, với quy mô vận hành khổng lồ gồm hàng chục trang tr�
 
 - **Chương 2. HỆ THỐNG QUY TRÌNH NGHIỆP VỤ VINAMILK**
     - 2.1. Kiến trúc quy trình nghiệp vụ tổng thể (Process Architecture)
+ <img width="942" height="714" alt="ngoinha" src="https://github.com/user-attachments/assets/c7f4440c-c2cc-4942-9f49-81d75bf5effb" />
+<p align="center">Hình 1.2 Kiến trúc quy trình nghiệp vụ Vinamilk</p>
+- Hệ thống vận hành của Vinamilk được tổng hợp và trực quan hóa thông qua mô hình “Ngôi nhà kiến trúc quy trình”. Mô hình giúp phân loại các quy trình theo vai trò và mức độ đóng góp vào hoạt động chung của doanh nghiệp, đồng thời thể hiện mối liên hệ giữa các nhóm quy trình. Kiến trúc quy trình được chia thành ba tầng chính gồm Quản lý (Management processes), Cốt lõi (Core processes) và Hỗ trợ (Support processes).
+
+- Tầng Quản lý (Management processes) được thể hiện ở phần mái nhà, bao gồm các quy trình có chức năng định hướng, kiểm soát và đánh giá hoạt động của doanh nghiệp. Nhóm này gồm ba quy trình. Thứ nhất, Quy trình quản lý và giám sát an toàn lao động tập trung vào việc kiểm soát các vấn đề liên quan đến an toàn trong môi trường làm việc, góp phần hạn chế rủi ro trong quá trình vận hành và sản xuất. Thứ hai, Quy trình phê duyệt kế hoạch tuyển dụng nhân sự hàng năm nhằm xác định nhu cầu nhân sự và thực hiện việc phê duyệt kế hoạch tuyển dụng phù hợp với hoạt động của doanh nghiệp. Thứ ba, Quy trình đánh giá hiệu suất Nhà Phân Phối định kỳ được sử dụng để theo dõi và đánh giá hiệu quả hoạt động của các nhà phân phối, từ đó hỗ trợ công tác quản lý và kiểm soát hệ thống phân phối.
+  
+- Tầng Cốt lõi (Core processes) là phần thân nhà, bao gồm các quy trình trực tiếp tạo ra giá trị cho khách hàng và gắn liền với hoạt động kinh doanh chính của Vinamilk. Trong nhóm này, Quy trình xử lý đơn hàng cho Khách hàng doanh nghiệp (B2B) thực hiện việc tiếp nhận và xử lý các đơn hàng từ khách hàng doanh nghiệp. Bên cạnh đó, Quy trình xử lý đơn hàng qua Website e-Commerce quản lý các đơn hàng phát sinh từ kênh thương mại điện tử, giúp doanh nghiệp phục vụ khách hàng thông qua kênh bán hàng trực tuyến. Quy trình tài trợ và cấp phát sữa cho chương trình Sữa Học Đường liên quan đến việc thực hiện hoạt động tài trợ và cấp phát sản phẩm cho chương trình. Cuối cùng, Quy trình thu mua sữa tươi từ Hộ Nông Dân Liên kết đảm bảo việc tiếp nhận và thu mua nguồn nguyên liệu sữa tươi từ các hộ nông dân trong chuỗi liên kết. Đây là nhóm quy trình có vai trò quan trọng vì trực tiếp liên quan đến hoạt động cung ứng, bán hàng và tạo ra giá trị cho doanh nghiệp cũng như khách hàng.
+  
+- Tầng Hỗ trợ (Support processes) được thể hiện ở phần nền móng của ngôi nhà, có chức năng cung cấp nguồn lực và các dịch vụ cần thiết để các quy trình quản lý và cốt lõi có thể vận hành ổn định. Quy trình quản lý và thu hồi tài sản khi nhân viên nghỉ việc đảm bảo tài sản được kiểm kê, bàn giao và thu hồi khi có sự thay đổi nhân sự. Quy trình xử lý và thanh toán chi phí khách sạn/vé máy bay hỗ trợ việc xử lý các khoản chi phí phát sinh liên quan đến hoạt động công tác của nhân viên. Ngoài ra, Quy trình khám sức khỏe định kỳ hàng năm hỗ trợ công tác chăm sóc và theo dõi sức khỏe người lao động.
+Nhìn chung, mô hình “Ngôi nhà kiến trúc quy trình” cho thấy mỗi nhóm quy trình đảm nhận một vai trò khác nhau nhưng có mối liên hệ chặt chẽ trong hệ thống vận hành. Quy trình Quản lý đóng vai trò định hướng và kiểm soát, quy trình Cốt lõi trực tiếp tạo ra giá trị và thực hiện hoạt động kinh doanh, trong khi quy trình Hỗ trợ cung cấp nguồn lực và dịch vụ cần thiết cho toàn hệ thống. Cách phân loại này giúp doanh nghiệp có cái nhìn tổng thể về hệ thống quy trình, đồng thời tạo cơ sở cho việc quản lý, đánh giá và cải tiến quy trình một cách có hệ thống.
+
     - 2.2. Danh mục nhóm quy trình nghiệp vụ
         - 2.2.1. Nhóm quy trình Quản lý (Management Processes)
+          
+         Nhóm quy trình Quản lý (Management Processes) là nhóm các quy trình có vai trò định hướng, kiểm soát và theo dõi các hoạt động quan trọng trong doanh nghiệp. Nếu các quy trình Cốt lõi tập trung trực tiếp vào việc tạo ra sản phẩm, cung cấp dịch vụ và phục vụ khách hàng, thì các quy trình Quản lý giúp doanh nghiệp đảm bảo những hoạt động đó được thực hiện trong điều kiện phù hợp, có kiểm soát và bám sát mục tiêu đã đề ra.
+Trong mô hình “Ngôi nhà kiến trúc quy trình” của Vinamilk, nhóm Quản lý được đặt ở phần mái nhà, thể hiện vai trò quản lý và giám sát đối với toàn bộ hệ thống. Trong phạm vi nghiên cứu, nhóm này gồm ba quy trình: Quy trình quản lý và giám sát an toàn lao động; Quy trình phê duyệt kế hoạch tuyển dụng nhân sự hàng năm; và Quy trình đánh giá hiệu suất Nhà Phân Phối định kỳ. Ba quy trình tuy thuộc các lĩnh vực khác nhau nhưng cùng hướng đến mục tiêu duy trì sự ổn định, kiểm soát rủi ro và nâng cao hiệu quả hoạt động của doanh nghiệp.
+
             - 2.1.1.1 Quy trình quản lý và giám sát an toàn lao động
                 - 2.1.1.1.1 Mô tả quy trình
+                   
+                  Quy trình quản lý và giám sát an toàn lao động được thực hiện nhằm đảm bảo môi trường làm việc an toàn cho người lao động tại các nhà máy, trang trại và các cơ sở vận hành của Vinamilk. Do đặc thù hoạt động liên quan đến sản xuất, kho vận và chăn nuôi, việc kiểm soát các nguy cơ mất an toàn cần được thực hiện thường xuyên thay vì chỉ xử lý khi sự cố đã xảy ra. Vì vậy, quy trình tập trung vào việc thiết lập các yêu cầu an toàn, đào tạo người lao động, kiểm tra thực tế, ghi nhận rủi ro và thực hiện các biện pháp khắc phục.
+                  
+                  Quy trình được bắt đầu bằng việc Ban An toàn - Sức khỏe - Môi trường (HSE) xây dựng hoặc cập nhật kế hoạch và các yêu cầu về an toàn lao động. Các tiêu chuẩn được phổ biến đến những đơn vị có liên quan để làm cơ sở thực hiện và kiểm tra trong quá trình vận hành.  
+
+                    Tiếp theo, người lao động được đào tạo và phổ biến các quy định về an toàn lao động. Hoạt động này đặc biệt quan trọng đối với nhân viên mới, đồng thời cần được thực hiện định kỳ đối với nhân viên đang làm việc nhằm duy trì ý thức tuân thủ và cập nhật các yêu cầu mới.  
+
+                    Sau khi các yêu cầu được phổ biến, bộ phận HSE phối hợp với quản lý tại các đơn vị tiến hành kiểm tra và giám sát thực tế. Việc kiểm tra có thể được thực hiện theo kế hoạch hoặc đột xuất tại các khu vực như nhà máy, kho vận, khu vực sản xuất và trang trại. Trong quá trình kiểm tra, các vấn đề liên quan đến điều kiện làm việc, trang thiết bị bảo hộ, máy móc và các nguy cơ mất an toàn được ghi nhận.  
+
+                    Khi phát hiện rủi ro hoặc hành vi chưa tuân thủ, bộ phận phụ trách tiến hành đánh giá mức độ ảnh hưởng và yêu cầu đơn vị liên quan thực hiện biện pháp khắc phục. Đối với những vấn đề nghiêm trọng hoặc sự cố xảy ra trong thực tế, việc điều tra nguyên nhân và báo cáo cấp quản lý được thực hiện để xác định biện pháp xử lý phù hợp, đồng thời hạn chế khả năng sự cố tương tự tái diễn.  
+
                 - 2.1.1.1.2 Các tác nhân tham gia quy trình
                 - 2.1.1.1.3 Khách hàng của quy trình
                 - 2.1.1.1.4 Những kết quả có thể đạt được của quy trình
