@@ -138,10 +138,28 @@ Trong mô hình “Ngôi nhà kiến trúc quy trình” của Vinamilk, nhóm Q
 
 - **CHƯƠNG 4. MÔ HÌNH HÓA CHI TIẾT CÁC QUY TRÌNH BẰNG BPMN VÀ PHÂN TÍCH CÁC QUY TRÌNH**
     - 4.1. Quy trình Quản lý và Giám sát An toàn Lao động
+      
         - 4.1.1. Mô tả quy trình, tác nhân và khách hàng
-        - 4.1.2. Mô hình hóa quy trình bằng BPMN
-        - 4.1.3. Phân tích định tính
-        - 4.1.4. Phân tích định lượng
+          
+     Quy trình do Ban An toàn - Sức khỏe - Môi trường (HSE) chủ trì nhằm đảm bảo an toàn lao động tại các nhà máy, kho và trang trại của Vinamilk. Định kỳ, HSE cập nhật kế hoạch và tiêu chuẩn an toàn lao động, sau đó phổ biến đến Quản đốc/Giám sát vận hành. Nội dung đào tạo được phân loại theo đối tượng (nhân viên mới hoặc đang làm việc) và được tổ chức cho Người lao động. HSE thực hiện kiểm tra định kỳ hoặc đột xuất, đồng thời kiểm tra song song hồ sơ/trang bị bảo hộ và hiện trường/máy móc. Khi phát hiện rủi ro, mức độ ảnh hưởng được đánh giá và phân loại nhẹ/nặng để xác định hướng xử lý: đơn vị tự khắc phục hoặc báo cáo Ban Điều hành ra quyết định. Kết quả khắc phục được HSE theo dõi liên tục cho đến khi đạt yêu cầu an toàn.
+
+Tác nhân tham gia quy trình:
+•      Ban An toàn - Sức khỏe - Môi trường (HSE)
+•      Quản đốc / Giám sát vận hành
+•      Người lao động
+•      Ban Điều hành
+Khách hàng của quy trình:
+•      Người lao động (được đào tạo và làm việc trong môi trường an toàn)
+•      Ban Điều hành (được cung cấp thông tin để ra quyết định xử lý rủi ro)
+•      Cơ quan quản lý nhà nước về an toàn lao động (đảm bảo tuân thủ quy định pháp luật)
+
+ - 4.1.2. Mô hình hóa quy trình bằng BPMN
+   <img width="800" height="1239" alt="ATLD" src="https://github.com/user-attachments/assets/f08b0746-3de8-4d1d-9384-d4b29c4f612f" />
+
+ - 4.1.3. Phân tích định tính
+ - 
+   4.1.3.1. Phân tích giá trị gia tăng
+ - 4.1.4. Phân tích định lượng
     - 4.2. Quy trình Phê duyệt Kế hoạch Tuyển dụng Nhân sự
         - 4.2.1. Mô tả quy trình, tác nhân và khách hàng
         - 4.2.2. Mô hình hóa quy trình bằng BPMN
