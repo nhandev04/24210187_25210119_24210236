@@ -14,153 +14,45 @@ Tuy nhiên, với quy mô vận hành khổng lồ gồm hàng chục trang tr�
 <img width="1920" height="1008" alt="VINAMILK_PICS_1" src="https://github.com/user-attachments/assets/57f6b33a-0e7a-4638-a5cb-137b353361d8" />
 <p align="center">Hình 1.1 Hình ảnh công ty Vinamilk</p>
 
-# MỤC LỤC
-
-- **Chương 1. GIỚI THIỆU CÔNG TY VINAMILK**
-    - 1.1. Tổng quan về Vinamilk
-        - 1.1.1. Lịch sử hình thành và phát triển
-        - 1.1.2. Tầm nhìn, sứ mệnh, giá trị cốt lõi
-        - 1.1.3. Quy mô và lĩnh vực kinh doanh
-        - 1.1.4. Thành tựu nổi bật
-    - 1.2. Cơ cấu tổ chức và hoạt động kinh doanh
-        - 1.2.1. Cơ cấu tổ chức bộ máy quản lý
-        - 1.2.2. Chiến lược Chuyển đổi số tại Vinamilk
-
-- **Chương 2. HỆ THỐNG QUY TRÌNH NGHIỆP VỤ VINAMILK**
-    - 2.1. Kiến trúc quy trình nghiệp vụ tổng thể (Process Architecture)
- <img width="942" height="714" alt="ngoinha" src="https://github.com/user-attachments/assets/c7f4440c-c2cc-4942-9f49-81d75bf5effb" />
-<p align="center">Hình 1.2 Kiến trúc quy trình nghiệp vụ Vinamilk</p>
-- Hệ thống vận hành của Vinamilk được tổng hợp và trực quan hóa thông qua mô hình “Ngôi nhà kiến trúc quy trình”. Mô hình giúp phân loại các quy trình theo vai trò và mức độ đóng góp vào hoạt động chung của doanh nghiệp, đồng thời thể hiện mối liên hệ giữa các nhóm quy trình. Kiến trúc quy trình được chia thành ba tầng chính gồm Quản lý (Management processes), Cốt lõi (Core processes) và Hỗ trợ (Support processes).
-
-- Tầng Quản lý (Management processes) được thể hiện ở phần mái nhà, bao gồm các quy trình có chức năng định hướng, kiểm soát và đánh giá hoạt động của doanh nghiệp. Nhóm này gồm ba quy trình. Thứ nhất, Quy trình quản lý và giám sát an toàn lao động tập trung vào việc kiểm soát các vấn đề liên quan đến an toàn trong môi trường làm việc, góp phần hạn chế rủi ro trong quá trình vận hành và sản xuất. Thứ hai, Quy trình phê duyệt kế hoạch tuyển dụng nhân sự hàng năm nhằm xác định nhu cầu nhân sự và thực hiện việc phê duyệt kế hoạch tuyển dụng phù hợp với hoạt động của doanh nghiệp. Thứ ba, Quy trình đánh giá hiệu suất Nhà Phân Phối định kỳ được sử dụng để theo dõi và đánh giá hiệu quả hoạt động của các nhà phân phối, từ đó hỗ trợ công tác quản lý và kiểm soát hệ thống phân phối.
-  
-- Tầng Cốt lõi (Core processes) là phần thân nhà, bao gồm các quy trình trực tiếp tạo ra giá trị cho khách hàng và gắn liền với hoạt động kinh doanh chính của Vinamilk. Trong nhóm này, Quy trình xử lý đơn hàng cho Khách hàng doanh nghiệp (B2B) thực hiện việc tiếp nhận và xử lý các đơn hàng từ khách hàng doanh nghiệp. Bên cạnh đó, Quy trình xử lý đơn hàng qua Website e-Commerce quản lý các đơn hàng phát sinh từ kênh thương mại điện tử, giúp doanh nghiệp phục vụ khách hàng thông qua kênh bán hàng trực tuyến. Quy trình tài trợ và cấp phát sữa cho chương trình Sữa Học Đường liên quan đến việc thực hiện hoạt động tài trợ và cấp phát sản phẩm cho chương trình. Cuối cùng, Quy trình thu mua sữa tươi từ Hộ Nông Dân Liên kết đảm bảo việc tiếp nhận và thu mua nguồn nguyên liệu sữa tươi từ các hộ nông dân trong chuỗi liên kết. Đây là nhóm quy trình có vai trò quan trọng vì trực tiếp liên quan đến hoạt động cung ứng, bán hàng và tạo ra giá trị cho doanh nghiệp cũng như khách hàng.
-  
-- Tầng Hỗ trợ (Support processes) được thể hiện ở phần nền móng của ngôi nhà, có chức năng cung cấp nguồn lực và các dịch vụ cần thiết để các quy trình quản lý và cốt lõi có thể vận hành ổn định. Quy trình quản lý và thu hồi tài sản khi nhân viên nghỉ việc đảm bảo tài sản được kiểm kê, bàn giao và thu hồi khi có sự thay đổi nhân sự. Quy trình xử lý và thanh toán chi phí khách sạn/vé máy bay hỗ trợ việc xử lý các khoản chi phí phát sinh liên quan đến hoạt động công tác của nhân viên. Ngoài ra, Quy trình khám sức khỏe định kỳ hàng năm hỗ trợ công tác chăm sóc và theo dõi sức khỏe người lao động.
-Nhìn chung, mô hình “Ngôi nhà kiến trúc quy trình” cho thấy mỗi nhóm quy trình đảm nhận một vai trò khác nhau nhưng có mối liên hệ chặt chẽ trong hệ thống vận hành. Quy trình Quản lý đóng vai trò định hướng và kiểm soát, quy trình Cốt lõi trực tiếp tạo ra giá trị và thực hiện hoạt động kinh doanh, trong khi quy trình Hỗ trợ cung cấp nguồn lực và dịch vụ cần thiết cho toàn hệ thống. Cách phân loại này giúp doanh nghiệp có cái nhìn tổng thể về hệ thống quy trình, đồng thời tạo cơ sở cho việc quản lý, đánh giá và cải tiến quy trình một cách có hệ thống.
-
-    - 2.2. Danh mục nhóm quy trình nghiệp vụ
-        - 2.2.1. Nhóm quy trình Quản lý (Management Processes)
-          
-         Nhóm quy trình Quản lý (Management Processes) là nhóm các quy trình có vai trò định hướng, kiểm soát và theo dõi các hoạt động quan trọng trong doanh nghiệp. Nếu các quy trình Cốt lõi tập trung trực tiếp vào việc tạo ra sản phẩm, cung cấp dịch vụ và phục vụ khách hàng, thì các quy trình Quản lý giúp doanh nghiệp đảm bảo những hoạt động đó được thực hiện trong điều kiện phù hợp, có kiểm soát và bám sát mục tiêu đã đề ra.
-Trong mô hình “Ngôi nhà kiến trúc quy trình” của Vinamilk, nhóm Quản lý được đặt ở phần mái nhà, thể hiện vai trò quản lý và giám sát đối với toàn bộ hệ thống. Trong phạm vi nghiên cứu, nhóm này gồm ba quy trình: Quy trình quản lý và giám sát an toàn lao động; Quy trình phê duyệt kế hoạch tuyển dụng nhân sự hàng năm; và Quy trình đánh giá hiệu suất Nhà Phân Phối định kỳ. Ba quy trình tuy thuộc các lĩnh vực khác nhau nhưng cùng hướng đến mục tiêu duy trì sự ổn định, kiểm soát rủi ro và nâng cao hiệu quả hoạt động của doanh nghiệp.
-
-       - 2.1.1.1 Quy trình quản lý và giám sát an toàn lao động
-         
-         - 2.1.1.1.1 Mô tả quy trình
-                   
-           Quy trình quản lý và giám sát an toàn lao động được thực hiện nhằm đảm bảo môi trường làm việc an toàn cho người lao động tại các nhà máy, trang trại và các cơ sở vận hành của Vinamilk. Do đặc thù hoạt động liên quan đến sản xuất, kho vận và chăn nuôi, việc kiểm soát các nguy cơ mất an toàn cần được thực hiện thường xuyên thay vì chỉ xử lý khi sự cố đã xảy ra. Vì vậy, quy trình tập trung vào việc thiết lập các yêu cầu an toàn, đào tạo người lao động, kiểm tra thực tế, ghi nhận rủi ro và thực hiện các biện pháp khắc phục.
-                  
-           Quy trình được bắt đầu bằng việc Ban An toàn - Sức khỏe - Môi trường (HSE) xây dựng hoặc cập nhật kế hoạch và các yêu cầu về an toàn lao động. Các tiêu chuẩn được phổ biến đến những đơn vị có liên quan để làm cơ sở thực hiện và kiểm tra trong quá trình vận hành.  
-
-           Tiếp theo, người lao động được đào tạo và phổ biến các quy định về an toàn lao động. Hoạt động này đặc biệt quan trọng đối với nhân viên mới, đồng thời cần được thực hiện định kỳ đối với nhân viên đang làm việc nhằm duy trì ý thức tuân thủ và cập nhật các yêu cầu mới.  
-
-           Sau khi các yêu cầu được phổ biến, bộ phận HSE phối hợp với quản lý tại các đơn vị tiến hành kiểm tra và giám sát thực tế. Việc kiểm tra có thể được thực hiện theo kế hoạch hoặc đột xuất tại các khu vực như nhà máy, kho vận, khu vực sản xuất và trang trại. Trong quá trình kiểm tra, các vấn đề liên quan đến điều kiện làm việc, trang thiết bị bảo hộ, máy móc và các nguy cơ mất an toàn được ghi nhận.  
-
-           Khi phát hiện rủi ro hoặc hành vi chưa tuân thủ, bộ phận phụ trách tiến hành đánh giá mức độ ảnh hưởng và yêu cầu đơn vị liên quan thực hiện biện pháp khắc phục. Đối với những vấn đề nghiêm trọng hoặc sự cố xảy ra trong thực tế, việc điều tra nguyên nhân và báo cáo cấp quản lý được thực hiện để xác định biện pháp xử lý phù hợp, đồng thời hạn chế khả năng sự cố tương tự tái diễn.  
-
-          - 2.1.1.1.2 Các tác nhân tham gia quy trình  
-            Ban An toàn - Sức khỏe - Môi trường (HSE): Là đơn vị chịu trách nhiệm chính trong việc xây dựng yêu cầu an toàn, tổ chức đào tạo, kiểm tra hiện trường, ghi nhận và theo dõi các vấn đề phát sinh.
-            
-            Quản đốc nhà máy / Trưởng bộ phận trang trại / Giám sát vận hành: Phối hợp với HSE trong quá trình kiểm tra tại đơn vị, đồng thời chịu trách nhiệm tổ chức khắc phục các vấn đề được phát hiện.
-            
-            Cán bộ, công nhân viên và người lao động trực tiếp: Là những người trực tiếp thực hiện các quy định về an toàn lao động trong quá trình làm việc, tham gia đào tạo và phối hợp khi có hoạt động kiểm tra.
-            
-            Ban Điều hành: Tham gia xem xét đối với các trường hợp vi phạm hoặc sự cố có mức độ nghiêm trọng, đặc biệt khi cần đưa ra quyết định hoặc biện pháp xử lý ở phạm vi toàn doanh nghiệp.  
-
-           - 2.1.1.1.3 Khách hàng của quy trình
-             
-             Khách hàng nội bộ: Toàn thể cán bộ, công nhân viên và người lao động tại Vinamilk. Đây là nhóm nhận được giá trị trực tiếp từ quy trình thông qua việc được làm việc trong môi trường an toàn, các nguy cơ được nhận diện và xử lý kịp thời.
-             
-             Khách hàng bên ngoài: Các cơ quan quản lý nhà nước có liên quan đến lĩnh vực lao động, an toàn và sức khỏe nghề nghiệp; ngoài ra có thể bao gồm các tổ chức đánh giá hoặc chứng nhận khi doanh nghiệp thực hiện các hoạt động đánh giá theo tiêu chuẩn liên quan.  
-
-                - 2.1.1.1.4 Những kết quả có thể đạt được của quy trình
-            - 2.1.1.2 Quy trình phê duyệt kế hoạch tuyển dụng nhân sự hàng năm
-                - 2.1.1.2.1 Mô tả quy trình
-                - 2.1.1.2.2 Các tác nhân tham gia quy trình
-                - 2.1.1.2.3 Khách hàng của quy trình
-                - 2.1.1.2.4 Những kết quả có thể đạt được của quy trình
-            - 2.1.1.3 Quy trình đánh giá hiệu suất Nhà Phân Phối định kỳ
-                - 2.1.1.3.1 Mô tả quy trình
-                - 2.1.1.3.2 Các tác nhân tham gia quy trình
-                - 2.1.1.3.3 Khách hàng của quy trình
-                - 2.1.1.3.4 Những kết quả có thể đạt được của quy trình
-            - 2.1.1.4 Nhận xét chung
-        - 2.2.2. Nhóm quy trình Cốt lõi (Core Processes)
-            - 2.2.2.1. Quy trình thu mua sữa tươi từ Hộ Nông Dân Liên kết
-                - 2.2.2.1.1. Mô tả quy trình
-                - 2.2.2.1.2. Các tác nhân tham gia quy trình
-                - 2.2.2.1.3. Khách hàng của quy trình
-                - 2.2.2.1.4. Những kết quả có thể đạt được của quy trình
-            - 2.2.2.2. Quy trình xử lý đơn hàng cho Khách hàng doanh nghiệp (B2B)
-                - 2.2.2.2.1. Mô tả quy trình
-                - 2.2.2.2.2. Các tác nhân tham gia quy trình
-                - 2.2.2.2.3. Khách hàng của quy trình
-                - 2.2.2.2.4. Những kết quả có thể đạt được của quy trình
-            - 2.2.2.3. Quy trình xử lý đơn hàng qua Website e-Commerce
-                - 2.2.2.3.1. Mô tả quy trình
-                - 2.2.2.3.2. Các tác nhân tham gia quy trình
-                - 2.2.2.3.3. Khách hàng của quy trình
-                - 2.2.2.3.4. Những kết quả có thể đạt được của quy trình
-            - 2.2.2.4. Quy trình tài trợ và cấp phát sữa cho chương trình Sữa Học Đường
-                - 2.2.2.4.1. Mô tả quy trình
-                - 2.2.2.4.2. Các tác nhân tham gia quy trình
-                - 2.2.2.4.3. Khách hàng của quy trình
-                - 2.2.2.4.4. Những kết quả có thể đạt được của quy trình
-            - 2.2.2.5. Nhận xét chung
-        - 2.2.3. Nhóm quy trình Hỗ trợ (Support Processes)
-            - 2.2.3.1. Quy trình quản lý và thu hồi tài sản khi nhân viên nghỉ việc
-                - 2.2.3.1.1. Mô tả quy trình
-                - 2.2.3.1.2. Các tác nhân tham gia quy trình
-                - 2.2.3.1.3. Khách hàng của quy trình
-                - 2.2.3.1.4. Những kết quả có thể đạt được của quy trình
-            - 2.2.3.2. Quy trình xử lý và thanh toán chi phí khách sạn / vé máy bay
-                - 2.2.3.2.1. Mô tả quy trình
-                - 2.2.3.2.2. Các tác nhân tham gia quy trình
-                - 2.2.3.2.3. Khách hàng của quy trình
-                - 2.2.3.2.4. Những kết quả có thể đạt được của quy trình
-            - 2.2.3.3. Quy trình khám sức khỏe định kỳ hàng năm
-                - 2.2.3.3.1. Mô tả quy trình
-                - 2.2.3.3.2. Các tác nhân tham gia quy trình
-                - 2.2.3.3.3. Khách hàng của quy trình
-                - 2.2.3.3.4. Những kết quả có thể đạt được của quy trình
-            - 2.2.3.4. Nhận xét chung
-
-- **CHƯƠNG 3: PHƯƠNG PHÁP THỰC HIỆN**
-    - 3.1. Phương pháp dựa trên bằng chứng (Evidence-based)
-        - 3.1.1. Sơ đồ tổ chức và phân quyền chức năng
-        - 3.1.2. Mô tả tài liệu quy trình hiện có
-        - 3.1.3. Kế hoạch làm việc của 6 quy trình trọng yếu
-        - 3.1.4. Thuật ngữ, sổ tay và biểu mẫu quản trị chuẩn hóa
-    - 3.2. Phương pháp phỏng vấn
-        - 3.2.1. Danh mục đối tượng phỏng vấn
-        - 3.2.2. Bộ câu hỏi định lượng (20 câu)
 
 - **CHƯƠNG 4. MÔ HÌNH HÓA CHI TIẾT CÁC QUY TRÌNH BẰNG BPMN VÀ PHÂN TÍCH CÁC QUY TRÌNH**
     - 4.1. Quy trình Quản lý và Giám sát An toàn Lao động
       
-        - 4.1.1. Mô tả quy trình, tác nhân và khách hàng
+ - 4.1.1. Mô tả quy trình, tác nhân và khách hàng
           
      Quy trình do Ban An toàn - Sức khỏe - Môi trường (HSE) chủ trì nhằm đảm bảo an toàn lao động tại các nhà máy, kho và trang trại của Vinamilk. Định kỳ, HSE cập nhật kế hoạch và tiêu chuẩn an toàn lao động, sau đó phổ biến đến Quản đốc/Giám sát vận hành. Nội dung đào tạo được phân loại theo đối tượng (nhân viên mới hoặc đang làm việc) và được tổ chức cho Người lao động. HSE thực hiện kiểm tra định kỳ hoặc đột xuất, đồng thời kiểm tra song song hồ sơ/trang bị bảo hộ và hiện trường/máy móc. Khi phát hiện rủi ro, mức độ ảnh hưởng được đánh giá và phân loại nhẹ/nặng để xác định hướng xử lý: đơn vị tự khắc phục hoặc báo cáo Ban Điều hành ra quyết định. Kết quả khắc phục được HSE theo dõi liên tục cho đến khi đạt yêu cầu an toàn.
 
-Tác nhân tham gia quy trình:
+Tác nhân tham gia quy trình:  
+
 •      Ban An toàn - Sức khỏe - Môi trường (HSE)
+
 •      Quản đốc / Giám sát vận hành
+
 •      Người lao động
+
 •      Ban Điều hành
-Khách hàng của quy trình:
+
+Khách hàng của quy trình:  
+
 •      Người lao động (được đào tạo và làm việc trong môi trường an toàn)
+
 •      Ban Điều hành (được cung cấp thông tin để ra quyết định xử lý rủi ro)
+
 •      Cơ quan quản lý nhà nước về an toàn lao động (đảm bảo tuân thủ quy định pháp luật)
 
+
  - 4.1.2. Mô hình hóa quy trình bằng BPMN
-   <img width="800" height="1239" alt="ATLD" src="https://github.com/user-attachments/assets/f08b0746-3de8-4d1d-9384-d4b29c4f612f" />
+
+<img width="4530" height="2730" alt="antoanlaodong" src="https://github.com/user-attachments/assets/c23c4298-1900-481f-bbf1-52f4efd60df3" />
+<p align="center"><b>Hình 4.1. Sơ đồ BPMN - Quy trình Quản lý và Giám sát An toàn Lao động</b></p>
 
 ### 4.1.3. Phân tích định tính
 
 #### 4.1.3.1. Phân tích giá trị gia tăng
 
-**Bảng 4.1.1. Phân loại giá trị gia tăng - Quy trình Quản lý và Giám sát An toàn Lao động**
+<p align="center">
+  <b>Bảng 4.1.1. Phân loại giá trị gia tăng - Quy trình Quản lý và Giám sát An toàn Lao động</b>
+</p>
 
 | STT | Hoạt động trong quy trình | Tác nhân thực hiện | Phân loại | Giải thích |
 | :---: | --- | --- | :---: | --- |
@@ -182,7 +74,9 @@ Khách hàng của quy trình:
 
 #### 4.1.3.2. Phân tích lãng phí
 
-**Bảng 4.1.2. Phân loại lãng phí - Quy trình Quản lý và Giám sát An toàn Lao động**
+<p align="center">
+  <b>Bảng 4.1.2. Phân loại lãng phí - Quy trình Quản lý và Giám sát An toàn Lao động</b>
+</p>
 
 | STT | Loại lãng phí | Ví dụ trong quy trình | Hướng khắc phục |
 | :---: | --- | --- | --- |
@@ -208,7 +102,9 @@ Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chín
 •      Chi phí Nhánh Nặng: C2 = (10 × 500.000) + 2.000.000 = 5.000.000 + 2.000.000 = 7.000.000 VNĐ.
 => AC = (0,85 × 2.000.000) + (0,15 × 7.000.000) = 1.700.000 + 1.050.000 = 2.750.000 VNĐ/vụ việc.
 
-**Bảng 4.1.3. Phân tích định lượng - Quy trình Quản lý và Giám sát An toàn Lao động**
+<p align="center">
+  <b>Bảng 4.1.3. Phân tích định lượng - Quy trình Quản lý và Giám sát An toàn Lao động</b>
+</p>
 
 | Nhánh / Kịch bản quy trình | Xác suất | Thời gian chu kỳ (CT) | Chi phí ước tính (VNĐ) |
 | --- | :---: | :---: | :---: |
@@ -217,31 +113,55 @@ Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chín
 | **Trung bình toàn quy trình** | **100%** | **4,9 ngày** | **2.750.000** |
 
  4.1.4.3. Phân tích định lượng về Chất lượng (Quality/Yield Analysis)
+ 
 Tỷ lệ vụ việc xử lý đạt yêu cầu trong lần theo dõi đầu tiên ước tính đạt 82%; 18% còn lại cần thêm ít nhất một vòng theo dõi bổ sung. Điểm nghẽn chính nằm ở khâu chờ Ban Điều hành phê duyệt chỉ đạo xử lý đối với sự cố mức Nặng, chiếm tới 2/10 ngày (20%) thời gian xử lý của nhánh này.
+
 4.1.4.4. Đề xuất cải tiến và nâng cao hiệu suất quy trình
+
 •      Phân cấp phê duyệt: Ủy quyền cho Trưởng Ban HSE quyết định trực tiếp đối với các sự cố mức trung bình, chỉ trình Ban Điều hành các trường hợp vượt ngưỡng rủi ro cao, giúp giảm thời gian chờ phê duyệt.
+
 •      Số hóa hồ sơ kiểm tra ATLĐ: Áp dụng biểu mẫu điện tử có ảnh/video hiện trường để rút ngắn thời gian ghi nhận và tổng hợp vấn đề an toàn.
+
 •      Xây dựng thư viện giải pháp khắc phục theo mẫu sự cố thường gặp, giúp đơn vị vận hành rút ngắn thời gian từ 3 xuống còn khoảng 2 ngày cho nhánh Nhẹ.
+
 4.2. Quy trình Phê duyệt Kế hoạch Tuyển dụng Nhân sự
+
 Nhóm quy trình: QUẢN LÝ
+
 4.2.1. Mô tả quy trình, tác nhân và khách hàng
+
 Quy trình do Phòng Nhân sự (HR) chủ trì, khởi động vào đầu mỗi năm khi HR gửi yêu cầu thu thập nhu cầu nhân sự đến các Trưởng phòng ban/đơn vị vận hành. Sau khi tổng hợp, HR đối soát song song nhu cầu với định hướng hoạt động và nhu cầu thực tế của doanh nghiệp, rồi chuyển kế hoạch sang Phòng Tài chính - Kế toán để kiểm tra đồng thời quỹ lương và chi phí tuyển dụng. Khi ngân sách được xác nhận phù hợp, HR lập kế hoạch nhân sự tổng thể và trình Ban Điều hành xem xét, phê duyệt. Sau khi được phê duyệt, HR thông báo triển khai tuyển dụng đến các phòng ban liên quan để thực hiện.
+
 Tác nhân tham gia quy trình:
+
 •      Trưởng phòng ban / Đơn vị vận hành
 •      Phòng Nhân sự (HR)
-•      Phòng Tài chính - Kế toán
-•      Ban Điều hành
-Khách hàng của quy trình:
-•      Trưởng phòng ban / Đơn vị vận hành (nhận nhân sự đúng nhu cầu, đúng tiến độ)
-•      Ban Điều hành (kiểm soát ngân sách và định biên nhân sự toàn công ty)
-4.2.2. Mô hình hóa quy trình bằng BPMN
-<img width="800" height="1225" alt="tuyendung" src="https://github.com/user-attachments/assets/2c0660b7-1f52-4f12-8fee-6a23ce436b90" />
 
-Hình 4.2. Sơ đồ BPMN - Quy trình Phê duyệt Kế hoạch Tuyển dụng Nhân sự
+•      Phòng Tài chính - Kế toán
+
+•      Ban Điều hành
+
+Khách hàng của quy trình:
+
+•      Trưởng phòng ban / Đơn vị vận hành (nhận nhân sự đúng nhu cầu, đúng tiến độ)
+
+•      Ban Điều hành (kiểm soát ngân sách và định biên nhân sự toàn công ty)
+
+4.2.2. Mô hình hóa quy trình bằng BPMN
+
+<img width="4170" height="2550" alt="tuyendungnhansu" src="https://github.com/user-attachments/assets/05512b69-841a-41d2-8e89-f2224dfe93be" />
+
+<p align="center">
+  <b>Hình 4.2. Sơ đồ BPMN - Quy trình Phê duyệt Kế hoạch Tuyển dụng Nhân sự</b>
+</p>
+
 4.2.3. Phân tích định tính
+
 4.2.3.1. Phân tích giá trị gia tăng
 
-**Bảng 4.2.1. Phân loại giá trị gia tăng - Quy trình Phê duyệt Kế hoạch Tuyển dụng Nhân sự**
+<p align="center">
+  <b>Bảng 4.2.1. Phân loại giá trị gia tăng - Quy trình Phê duyệt Kế hoạch Tuyển dụng Nhân sự</b>
+</p>
 
 | STT | Hoạt động trong quy trình | Tác nhân thực hiện | Phân loại | Giải thích |
 | :---: | --- | --- | :---: | --- |
@@ -265,7 +185,9 @@ Hình 4.2. Sơ đồ BPMN - Quy trình Phê duyệt Kế hoạch Tuyển dụng 
 
 4.2.3.2. Phân tích lãng phí
 
-**Bảng 4.2.2. Phân loại lãng phí - Quy trình Phê duyệt Kế hoạch Tuyển dụng Nhân sự**
+<p align="center">
+  <b>Bảng 4.2.2. Phân loại lãng phí - Quy trình Phê duyệt Kế hoạch Tuyển dụng Nhân sự</b>
+</p>
 
 | STT | Loại lãng phí | Ví dụ trong quy trình | Hướng khắc phục |
 | :---: | --- | --- | --- |
@@ -274,18 +196,30 @@ Hình 4.2. Sơ đồ BPMN - Quy trình Phê duyệt Kế hoạch Tuyển dụng 
 | 3 | **Thừa / Trùng lặp** *(Overdo)* | Lập lại toàn bộ hồ sơ kế hoạch dù chỉ một phòng ban thay đổi nhu cầu; kế hoạch bị yêu cầu điều chỉnh nhiều vòng do thiếu chuẩn hóa biểu mẫu đầu vào. | Chuẩn hóa biểu mẫu đề xuất nhu cầu nhân sự có kiểm tra hợp lệ ngay từ đầu vào; cho phép chỉnh sửa từng phần thay vì lập lại toàn bộ hồ sơ. |
 
 4.2.4. Phân tích định lượng
+
 4.2.4.1. Phân tích định lượng về Thời gian (Time Flow Analysis)
+
 Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chính của quy trình: "Kết quả kiểm tra ngân sách".
+
 •      Kịch bản Đủ ngân sách (giả định 80%): Tổng hợp nhu cầu (2 ngày) + Đối soát (1 ngày) + Gửi & kiểm tra ngân sách (2 ngày) + Lập kế hoạch tổng thể (1 ngày) + Trình và chờ Ban Điều hành phê duyệt (3 ngày) + Thông báo triển khai (1 ngày) = 10 ngày.
+
 •      Kịch bản Không đủ ngân sách (giả định 20%): Như trên + vòng lặp đề xuất điều chỉnh ngân sách/nhu cầu và kiểm tra lại (5 ngày) = 15 ngày.
+
 => ACT = (0,8 × 10) + (0,2 × 15) = 8 + 3 = 11 ngày/đợt kế hoạch.
+
 4.2.4.2. Phân tích định lượng về Chi phí (Cost Flow Analysis)
+
 Ước tính dựa trên chi phí nhân sự tham gia xử lý hồ sơ và họp xét duyệt: 300.000 VNĐ/ngày (gộp các bộ phận tham gia).
+
 •      Chi phí kịch bản Đủ ngân sách: C1 = 10 × 300.000 = 4.000.000 VNĐ.
+
 •      Chi phí kịch bản Không đủ ngân sách: C2 = 15 × 300.000 = 4.500.000 VNĐ.
+
 => AC = (0,8 × 4.000.000) + (0,2 × 4.500.000) = 2.400.000 + 900.000 = 4.300.000 VNĐ/đợt kế hoạch.
 
-**Bảng 4.2.3. Phân tích định lượng - Quy trình Phê duyệt Kế hoạch Tuyển dụng Nhân sự**
+<p align="center">
+  <b>Bảng 4.2.3. Phân tích định lượng - Quy trình Phê duyệt Kế hoạch Tuyển dụng Nhân sự</b>
+</p>
 
 | Nhánh / Kịch bản quy trình | Xác suất | Thời gian chu kỳ (CT) | Chi phí ước tính (VNĐ) |
 | --- | :---: | :---: | :---: |
@@ -294,30 +228,55 @@ Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chín
 | **Trung bình toàn quy trình** | **100%** | **11 ngày** | **4.300.000** |
 
 4.2.4.3. Phân tích định lượng về Chất lượng (Quality/Yield Analysis)
+
 Tỷ lệ kế hoạch được phê duyệt ngay lần trình đầu tiên ước tính đạt 78%; 22% còn lại phải qua ít nhất một vòng điều chỉnh (do ngân sách hoặc do phạm vi chưa phù hợp). Điểm nghẽn chính là bước kiểm tra ngân sách - chiếm 20% xác suất phải làm lại và kéo dài thêm 50% thời gian xử lý.
+
 4.2.4.4. Đề xuất cải tiến và nâng cao hiệu suất quy trình
+
 •      Chuẩn hóa biểu mẫu đề xuất nhu cầu có kiểm tra ràng buộc ngân sách sơ bộ ngay từ Trưởng phòng ban, giảm tỷ lệ hồ sơ bị trả lại do vượt ngân sách.
+
 •      Áp dụng cảnh báo ngân sách tự động trên hệ thống ERP để Phòng Tài chính phát hiện sớm sai lệch trước khi hồ sơ được trình Ban Điều hành.
+
 •      Rút ngắn chu kỳ họp phê duyệt của Ban Điều hành bằng lịch họp cố định hằng tháng, ước tính giảm ACT từ 11 ngày xuống dưới 8 ngày/đợt kế hoạch.
+
 4.3. Quy trình Thu mua Sữa tươi từ Hộ Nông Dân Liên kết
+
 Nhóm quy trình: CỐT LÕI
+
 4.3.1. Mô tả quy trình, tác nhân và khách hàng
+
 Quy trình bắt đầu khi Hộ nông dân liên kết vắt sữa đúng khung giờ quy định và vận chuyển đến trạm thu mua. Trạm thu mua/Bộ phận QA lấy mẫu và kiểm tra song song hai chỉ tiêu lý-hóa và vi sinh; nếu đạt chuẩn, sữa được cân khối lượng, bơm vào bồn làm lạnh và cập nhật dữ liệu thu mua vào hệ thống. Đội vận chuyển tiếp nhận, duy trì nhiệt độ bảo quản và vận chuyển sữa về nhà máy, nơi Bộ phận QA nhà máy kiểm tra lại mẫu trước khi xác nhận nhập kho nguyên liệu. Cuối cùng, Phòng Kế toán - Tài chính đối soát khối lượng, chất lượng và thực hiện thanh toán tiền sữa cho hộ nông dân, khép kín chu kỳ thu mua.
+
 Tác nhân tham gia quy trình:
+
 •      Hộ nông dân liên kết
+
 •      Trạm thu mua / Bộ phận QA
+
 •      Đội vận chuyển
+
 •      Phòng Kế toán - Tài chính
+
 Khách hàng của quy trình:
+
 •      Nhà máy sản xuất (nhận nguyên liệu sữa đạt chuẩn chất lượng, đúng khối lượng)
+
 •      Hộ nông dân liên kết (nhận thanh toán đầy đủ, đúng hạn và minh bạch)
 
 4.3.2. Mô hình hóa quy trình bằng BPMN
 
+<img width="3990" height="1710" alt="thumuasua" src="https://github.com/user-attachments/assets/3aedccf8-9787-495b-b277-645d54750575" />
+<p align="center">
+  <b>Hình 4.3. Sơ đồ BPMN - Quy trình Thu mua Sữa tươi từ Hộ Nông Dân Liên kết</b>
+</p>
+
 4.3.3. Phân tích định tính
+
 4.3.3.1. Phân tích giá trị gia tăng
 
-**Bảng 4.3.1. Phân loại giá trị gia tăng - Quy trình Thu mua Sữa tươi từ Hộ Nông Dân Liên kết**
+<p align="center">
+  <b>Bảng 4.3.1. Phân loại giá trị gia tăng - Quy trình Thu mua Sữa tươi từ Hộ Nông Dân Liên kết</b>
+</p>
 
 | STT | Hoạt động trong quy trình | Tác nhân thực hiện | Phân loại | Giải thích |
 | :---: | --- | --- | :---: | --- |
@@ -340,7 +299,9 @@ Khách hàng của quy trình:
 
 4.3.3.2. Phân tích lãng phí
 
-**Bảng 4.3.2. Phân loại lãng phí - Quy trình Thu mua Sữa tươi từ Hộ Nông Dân Liên kết**
+<p align="center">
+  <b>Bảng 4.3.2. Phân loại lãng phí - Quy trình Thu mua Sữa tươi từ Hộ Nông Dân Liên kết</b>
+</p>
 
 | STT | Loại lãng phí | Ví dụ trong quy trình | Hướng khắc phục |
 | :---: | --- | --- | --- |
@@ -351,19 +312,28 @@ Khách hàng của quy trình:
 4.3.4. Phân tích định lượng
 
 4.3.4.1. Phân tích định lượng về Thời gian (Time Flow Analysis)
+
 Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chính của quy trình: "Kết quả kiểm tra khối lượng ghi nhận".
+
 •      Kịch bản Khớp (giả định 90%): Kiểm tra chất lượng & cân khối lượng (0,5 ngày) + Vận chuyển về nhà máy (0,5 ngày) + QA nhà máy kiểm tra lại (0,25 ngày) + Đối soát & thanh toán (1 ngày) = 2,25 ngày.
+
 •      Kịch bản Không khớp (giả định 10%): Như trên + Lập biên bản, đối chiếu tranh chấp (1 ngày) = 3,25 ngày.
+
 => ACT = (0,9 × 2,25) + (0,1 × 3,25) = 2,025 + 0,325 = 2,35 ngày/lô sữa.
 
 4.3.4.2. Phân tích định lượng về Chi phí (Cost Flow Analysis)
 
 Ước tính dựa trên chi phí vận hành (nhân sự QA và đội vận chuyển): 400.000 VNĐ/ngày.
+
 •      Chi phí kịch bản Khớp: C1 = 2,25 × 400.000 = 900.000 VNĐ.
+
 •      Chi phí kịch bản Không khớp: C2 = 3,25 × 400.000 = 1.300.000 VNĐ.
+
 => AC = (0,9 × 900.000) + (0,1 × 1.300.000) = 810.000 + 130.000 = 940.000 VNĐ/lô sữa.
 
-**Bảng 4.3.3. Phân tích định lượng - Quy trình Thu mua Sữa tươi từ Hộ Nông Dân Liên kết**
+<p align="center">
+  <b>Bảng 4.3.3. Phân tích định lượng - Quy trình Thu mua Sữa tươi từ Hộ Nông Dân Liên kết</b>
+</p>
 
 | Nhánh / Kịch bản quy trình | Xác suất | Thời gian chu kỳ (CT) | Chi phí ước tính (VNĐ) |
 | --- | :---: | :---: | :---: |
@@ -372,30 +342,57 @@ Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chín
 | **Trung bình toàn quy trình** | **100%** | **2,35 ngày** | **940.000** |
 
 4.3.4.3. Phân tích định lượng về Chất lượng (Quality/Yield Analysis)
+
 Tỷ lệ lô sữa đạt chuẩn kiểm nghiệm ngay lần đầu ước tính đạt 92%; 8% còn lại bị từ chối thu mua. Tỷ lệ khối lượng khớp ghi nhận đạt 90%, cho thấy sai lệch giữa hộ nông dân và trạm thu mua vẫn còn tồn tại ở mức đáng chú ý. Điểm nghẽn: bước kiểm tra song song lý-hóa/vi sinh là bước quyết định thời gian tối thiểu của toàn quy trình.
+
 4.3.4.4. Đề xuất cải tiến và nâng cao hiệu suất quy trình
+
 •      Trang bị cân điện tử kết nối trực tiếp hệ thống tại điểm thu gom để giảm sai lệch khối lượng, mục tiêu nâng tỷ lệ khớp từ 90% lên trên 97%.
+
 •      Đầu tư thiết bị kiểm nhanh chỉ tiêu cơ bản tại trạm thu mua để rút ngắn thời gian chờ kết quả song song.
+
 •      Áp dụng cơ chế công nhận một phần kết quả kiểm tra tại trạm cho bước kiểm tra lại tại nhà máy, giảm ACT từ 2,35 ngày xuống gần 2 ngày/lô sữa.
+
 4.4. Quy trình Tài trợ và Cấp phát Sữa cho Chương trình Sữa Học Đường
+
 Nhóm quy trình: CỐT LÕI
+
 4.4.1. Mô tả quy trình, tác nhân và khách hàng
+
 Quy trình do Ban Dự án Sữa Học Đường chủ trì, phối hợp với Sở Giáo dục & Đào tạo và Sở Y tế để thống nhất danh sách trường và định mức tài trợ. Sau khi lập kế hoạch cung ứng, Khối Sản xuất & QA tiến hành sản xuất, bổ sung vi chất dinh dưỡng và kiểm nghiệm song song hai chỉ tiêu: vi chất dinh dưỡng và an toàn vệ sinh thực phẩm. Sữa đạt chuẩn được chuyển kho trung chuyển và vận chuyển đến điểm trường theo hai tuyến song song (tuyến gần và tuyến vùng sâu, vùng xa), tùy điều kiện thời tiết và giao thông. Tại trường, Ban Giám hiệu/Giáo viên kiểm đếm, bảo quản, tổ chức cho học sinh uống sữa và ký biên bản nghiệm thu để Ban Dự án thực hiện thanh quyết toán, khép kín chu kỳ tài trợ.
+
 Tác nhân tham gia quy trình:
+
 •      Sở Giáo dục & Đào tạo / Sở Y tế
+
 •      Ban Dự án Sữa Học Đường
+
 •      Khối Sản xuất & QA / Logistics
+
 •      Ban Giám hiệu / Giáo viên
+
 Khách hàng của quy trình:
+
 •      Học sinh tại các điểm trường (đối tượng thụ hưởng cuối cùng của chương trình)
+
 •      Nhà trường (đơn vị tiếp nhận và tổ chức triển khai)
+
 •      Sở Giáo dục & Đào tạo / Sở Y tế (giám sát việc thực hiện chương trình theo quy định)
+
 4.4.2. Mô hình hóa quy trình bằng BPMN
 
+<img width="4170" height="1710" alt="suahocduong" src="https://github.com/user-attachments/assets/9cc04a10-6ac0-44a4-b939-d15cc779c7cb" />
+<p align="center">
+  <b>Hình 4.4. Sơ đồ BPMN - Quy trình Tài trợ và Cấp phát Sữa cho Chương trình Sữa Học Đường</b>
+</p>
+
 4.4.3. Phân tích định tính
+
 4.4.3.1. Phân tích giá trị gia tăng
 
-**Bảng 4.4.1. Phân loại giá trị gia tăng - Quy trình Tài trợ và Cấp phát Sữa cho Chương trình Sữa Học Đường**
+<p align="center">
+  <b>Bảng 4.4.1. Phân loại giá trị gia tăng - Quy trình Tài trợ và Cấp phát Sữa cho Chương trình Sữa Học Đường</b>
+</p>
 
 | STT | Hoạt động trong quy trình | Tác nhân thực hiện | Phân loại | Giải thích |
 | :---: | --- | --- | :---: | --- |
@@ -417,7 +414,9 @@ Khách hàng của quy trình:
 
 4.4.3.2. Phân tích lãng phí
 
-**Bảng 4.4.2. Phân loại lãng phí - Quy trình Tài trợ và Cấp phát Sữa cho Chương trình Sữa Học Đường**
+<p align="center">
+  <b>Bảng 4.4.2. Phân loại lãng phí - Quy trình Tài trợ và Cấp phát Sữa cho Chương trình Sữa Học Đường</b>
+</p>
 
 | STT | Loại lãng phí | Ví dụ trong quy trình | Hướng khắc phục |
 | :---: | --- | --- | --- |
@@ -427,18 +426,27 @@ Khách hàng của quy trình:
 
 
 4.4.4. Phân tích định lượng
+
 4.4.4.1. Phân tích định lượng về Thời gian (Time Flow Analysis)
-Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chính của quy trình: "Tuyến vận chuyển & điều kiện thời tiết, giao thông".
-•      Tuyến gần (giả định 70% số điểm trường): Thời gian vận chuyển cơ bản = 180 phút. Với 95% thuận lợi và 5% chậm trễ nhẹ (+60 phút): T(gần) = (0,95 × 180) + (0,05 × 240) = 183 phút.
-•      Tuyến vùng sâu, vùng xa (giả định 30% số điểm trường): Thời gian vận chuyển cơ bản = 480 phút. Với 80% thuận lợi và 20% không thuận lợi cần điều chỉnh lịch trình (+180 phút): T(xa) = (0,8 × 480) + (0,2 × 660) = 516 phút.
-=> ACT = (0,7 × 183) + (0,3 × 516) = 128,1 + 154,8 = 282,9 phút/lô hàng (≈ 4,7 giờ).
+
+Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chính của quy trình: "Tuyến vận chuyển & điều kiện thời tiết, giao thông".  
+•      Tuyến gần (giả định 70% số điểm trường): Thời gian vận chuyển cơ bản = 180 phút. Với 95% thuận lợi và 5% chậm trễ nhẹ (+60 phút): T(gần) = (0,95 × 180) + (0,05 × 240) = 183 phút.  
+•      Tuyến vùng sâu, vùng xa (giả định 30% số điểm trường): Thời gian vận chuyển cơ bản = 480 phút. Với 80% thuận lợi và 20% không thuận lợi cần điều chỉnh lịch trình (+180 phút): T(xa) = (0,8 × 480) + (0,2 × 660) = 516 phút.  
+=> ACT = (0,7 × 183) + (0,3 × 516) = 128,1 + 154,8 = 282,9 phút/lô hàng (≈ 4,7 giờ).  
+
 4.4.4.2. Phân tích định lượng về Chi phí (Cost Flow Analysis)
+
 Ước tính dựa trên đơn giá vận chuyển bình quân theo tuyến: tuyến gần 800.000 VNĐ/chuyến; tuyến xa 2.500.000 VNĐ/chuyến.
+
 •      Chi phí tuyến gần: C1 = 800.000 VNĐ/chuyến.
+
 •      Chi phí tuyến xa: C2 = 2.500.000 VNĐ/chuyến.
+
 => AC = (0,7 × 800.000) + (0,3 × 2.500.000) = 560.000 + 750.000 = 1.310.000 VNĐ/chuyến.
 
-**Bảng 4.4.3. Phân tích định lượng - Quy trình Tài trợ và Cấp phát Sữa cho Chương trình Sữa Học Đường**
+<p align="center">
+  <b>Bảng 4.4.3. Phân tích định lượng - Quy trình Tài trợ và Cấp phát Sữa cho Chương trình Sữa Học Đường</b>
+</p>
 
 | Nhánh / Kịch bản quy trình | Xác suất | Thời gian chu kỳ (CT) | Chi phí ước tính (VNĐ) |
 | --- | :---: | :---: | :---: |
@@ -447,28 +455,55 @@ Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chín
 | **Trung bình toàn quy trình** | **100%** | **282,9 phút** | **1.310.000** |
 
 4.4.4.3. Phân tích định lượng về Chất lượng (Quality/Yield Analysis)
+
 Tỷ lệ lô sữa đạt kiểm nghiệm lần đầu ước tính 96%. Tỷ lệ sự cố bao bì trong vận chuyển ước tính 3%. Tỷ lệ giao hàng đúng hạn ước tính 88%, với 12% chậm trễ chủ yếu đến từ tuyến vùng sâu, vùng xa khi gặp thời tiết bất lợi. Điểm nghẽn: tuyến vùng sâu, vùng xa vừa chiếm chi phí cao nhất vừa có xác suất chậm trễ lớn nhất (20%).
+
 4.4.4.4. Đề xuất cải tiến và nâng cao hiệu suất quy trình
+
 •      Ứng dụng phần mềm định tuyến (route optimization) để giảm thời gian di chuyển đến các điểm trường vùng sâu, vùng xa, mục tiêu giảm ACT xuống dưới 250 phút/lô hàng.
+
 •      Tăng cường đội xe dự phòng và lái xe có kinh nghiệm cho các tuyến có xác suất chậm trễ cao, giảm tỷ lệ không thuận lợi từ 20% xuống dưới 10%.
+
 •      Chuẩn hóa quy cách đóng gói chống sốc để giảm tỷ lệ sự cố bao bì từ 3% xuống dưới 1%.
+
 4.5. Quy trình Thu hồi Tài sản khi Nhân viên Nghỉ việc
+
 Nhóm quy trình: HỖ TRỢ
+
 4.5.1. Mô tả quy trình, tác nhân và khách hàng
+
 Quy trình bắt đầu khi nhân viên nộp đơn xin nghỉ việc và được Trưởng bộ phận phê duyệt, đồng thời chỉ định nhân sự tiếp nhận công việc. Phòng Nhân sự lập danh mục thu hồi tài sản gửi đến nhân viên; nhân viên đồng thời bàn giao công việc, hồ sơ cho Trưởng bộ phận và bàn giao thiết bị phần cứng, CNTT cho Bộ phận Hành chính - Quản trị Tài sản/IT. Hai bộ phận này kiểm tra song song tài sản phần cứng và thu hồi dữ liệu, tài khoản truy cập trước khi xác nhận hoàn tất thu hồi. Sau đó, Phòng Nhân sự và Kế toán đối chiếu đồng thời công nợ tài sản và công nợ tài chính trước khi chốt sổ bảo hiểm xã hội, thanh lý hợp đồng lao động và chi trả quyết toán lương, trợ cấp cho nhân viên.
+
 Tác nhân tham gia quy trình:
+
 •      Nhân viên nghỉ việc
+
 •      Trưởng bộ phận / Nhân sự tiếp nhận
+
 •      Hành chính - Quản trị Tài sản / IT
+
 •      Phòng Nhân sự (HR) / Kế toán
+
 Khách hàng của quy trình:
+
 •      Ban Điều hành (đảm bảo không thất thoát tài sản và dữ liệu doanh nghiệp)
+
 •      Nhân viên nghỉ việc (nhận quyết toán lương, trợ cấp đầy đủ và đúng hạn)
+
 4.5.2. Mô hình hóa quy trình bằng BPMN
+
+<img width="4020" height="2580" alt="thuhoitaisan" src="https://github.com/user-attachments/assets/4f84d5a9-c329-4aa6-b1a2-f0090fc44286" />
+<p align="center">
+  <b>Hình 4.5. Sơ đồ BPMN - Quy trình Thu hồi Tài sản khi Nhân viên Nghỉ việc</b>
+</p>
+
 4.5.3. Phân tích định tính
+
 4.5.3.1. Phân tích giá trị gia tăng
 
-**Bảng 4.5.1. Phân loại giá trị gia tăng - Quy trình Thu hồi Tài sản khi Nhân viên Nghỉ việc**
+<p align="center">
+  <b>Bảng 4.5.1. Phân loại giá trị gia tăng - Quy trình Thu hồi Tài sản khi Nhân viên Nghỉ việc</b>
+</p>
 
 | STT | Hoạt động trong quy trình | Tác nhân thực hiện | Phân loại | Giải thích |
 | :---: | --- | --- | :---: | --- |
@@ -492,7 +527,9 @@ Khách hàng của quy trình:
 
 4.5.3.2. Phân tích lãng phí
 
-**Bảng 4.5.2. Phân loại lãng phí - Quy trình Thu hồi Tài sản khi Nhân viên Nghỉ việc**
+<p align="center">
+  <b>Bảng 4.5.2. Phân loại lãng phí - Quy trình Thu hồi Tài sản khi Nhân viên Nghỉ việc</b>
+</p>
 
 | STT | Loại lãng phí | Ví dụ trong quy trình | Hướng khắc phục |
 | :---: | --- | --- | --- |
@@ -501,18 +538,30 @@ Khách hàng của quy trình:
 | 3 | **Thừa / Trùng lặp** *(Overdo)* | Yêu cầu nhân viên điền lại nhiều biểu mẫu bàn giao có nội dung trùng lặp giữa các bộ phận; kiểm tra lại toàn bộ danh mục tài sản dù nhân viên chỉ sử dụng một phần nhỏ. | Hợp nhất biểu mẫu bàn giao thành một bộ hồ sơ dùng chung cho tất cả các bộ phận; đối chiếu theo danh mục tài sản được cấp phát thực tế thay vì kiểm tra toàn bộ. |
 
 4.5.4. Phân tích định lượng
+
 4.5.4.1. Phân tích định lượng về Thời gian (Time Flow Analysis)
+
 Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chính của quy trình: "Kết quả thu hồi tài sản và tài khoản".
+
 •      Kịch bản Đầy đủ (giả định 88%): Bàn giao công việc (2 ngày) + Bàn giao & kiểm tra thiết bị song song (1 ngày) + Xác nhận hoàn tất thu hồi (0,5 ngày) + Đối chiếu công nợ (1 ngày) + Chốt sổ & quyết toán (2 ngày) = 6,5 ngày.
+
 •      Kịch bản Không đầy đủ (giả định 12%): Như trên + Lập biên bản thiếu hụt, xử lý bổ sung (3 ngày) = 9,5 ngày.
+
 => ACT = (0,88 × 6,5) + (0,12 × 9,5) = 5,72 + 1,14 = 6,86 ngày/hồ sơ nghỉ việc.
+
 4.5.4.2. Phân tích định lượng về Chi phí (Cost Flow Analysis)
+
 Ước tính dựa trên chi phí xử lý hành chính - nhân sự tham gia: 350.000 VNĐ/ngày.
+
 •      Chi phí kịch bản Đầy đủ: C1 = 6,5 × 350.000 = 2.275.000 VNĐ.
+
 •      Chi phí kịch bản Không đầy đủ: C2 = 9,5 × 350.000 = 4.325.000 VNĐ.
+
 => AC = (0,88 × 2.275.000) + (0,12 × 4.325.000) = 2.002.000 + 399.000 = 2.401.000 VNĐ/hồ sơ.
 
-**Bảng 4.5.3. Phân tích định lượng - Quy trình Thu hồi Tài sản khi Nhân viên Nghỉ việc**
+<p align="center">
+  <b>Bảng 4.5.3. Phân tích định lượng - Quy trình Thu hồi Tài sản khi Nhân viên Nghỉ việc</b>
+</p>
 
 | Nhánh / Kịch bản quy trình | Xác suất | Thời gian chu kỳ (CT) | Chi phí ước tính (VNĐ) |
 | --- | :---: | :---: | :---: |
@@ -521,29 +570,55 @@ Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chín
 | **Trung bình toàn quy trình** | **100%** | **6,86 ngày** | **2.401.000** |
 
 4.5.4.3. Phân tích định lượng về Chất lượng (Quality/Yield Analysis)
+
 Tỷ lệ hồ sơ thu hồi đầy đủ ngay lần đầu ước tính đạt 88%; 12% còn lại phát sinh công nợ tài sản hoặc tài chính cần xử lý bổ sung, kéo dài thời gian quyết toán cho nhân viên. Điểm nghẽn: bước đối chiếu đồng thời công nợ tài sản và tài chính là điều kiện bắt buộc trước khi chốt sổ, dễ bị trì hoãn nếu một trong hai bộ phận chậm xác nhận.
+
 4.5.4.4. Đề xuất cải tiến và nâng cao hiệu suất quy trình
+
 •      Số hóa checklist bàn giao tài sản/CNTT ngay từ ngày nhân viên nộp đơn nghỉ việc, giúp phát hiện sớm rủi ro thiếu hụt trước ngày nghỉ chính thức.
+
 •      Tự động hóa đối chiếu công nợ tài chính qua hệ thống ERP, giảm thời gian chờ xác nhận thủ công từ Kế toán.
+
 •      Xây dựng cơ chế xử lý song song giữa xác nhận công nợ tài sản và tài chính, ước tính giảm ACT từ 6,86 ngày xuống dưới 5,5 ngày/hồ sơ.
+
 4.6. Quy trình Khám sức khỏe định kỳ hàng năm
+
 Nhóm quy trình: HỖ TRỢ
+
 4.6.1. Mô tả quy trình, tác nhân và khách hàng
+
 Quy trình do Phòng Nhân sự (HR)/Ban HSE chủ trì, bắt đầu từ đầu năm với việc khảo sát nhu cầu, xây dựng danh mục khám và lựa chọn cơ sở y tế đạt yêu cầu năng lực. Sau khi ký hợp đồng và thống nhất lịch khám chi tiết, HR thông báo đến các đơn vị để CBCNV chủ động sắp xếp đến khám theo lịch. Tại cơ sở y tế, CBCNV được khám song song lâm sàng và cận lâm sàng; kết quả được tổng hợp thành hồ sơ sức khỏe cá nhân, các trường hợp bất thường được chỉ định khám chuyên sâu bổ sung. HR bàn giao sổ khám cá nhân và lập phương án hỗ trợ điều trị cho các trường hợp không đạt yêu cầu sức khỏe để Y tế cơ quan/Ban Điều hành xem xét, quyết định điều chuyển vị trí hoặc phê duyệt hỗ trợ y tế, theo dõi định kỳ.
+
 Tác nhân tham gia quy trình:
+
 •      Phòng Nhân sự (HR) / Ban HSE
+
 •      Bệnh viện / Cơ sở y tế hợp tác
+
 •      CBCNV
+
 •      Y tế cơ quan / Ban Điều hành
+
 Khách hàng của quy trình:
+
 •      CBCNV (được chăm sóc, theo dõi sức khỏe định kỳ)
+
 •      Ban Điều hành (đảm bảo nguồn nhân lực khỏe mạnh, bố trí công việc phù hợp)
+
 4.6.2. Mô hình hóa quy trình bằng BPMN
 
+<img width="4170" height="1680" alt="khamsuckhoe" src="https://github.com/user-attachments/assets/e87843f0-c2e4-453b-b0e8-0afe71a9cb49" />
+<p align="center">
+  <b>Hình 4.6. Sơ đồ BPMN - Quy trình Khám sức khỏe định kỳ hàng năm</b>
+</p>
+
 4.6.3. Phân tích định tính
+
 4.6.3.1. Phân tích giá trị gia tăng
 
-**Bảng 4.6.1. Phân loại giá trị gia tăng - Quy trình Khám sức khỏe định kỳ hàng năm**
+<p align="center">
+  <b>Bảng 4.6.1. Phân loại giá trị gia tăng - Quy trình Khám sức khỏe định kỳ hàng năm</b>
+</p>
 
 | STT | Hoạt động trong quy trình | Tác nhân thực hiện | Phân loại | Giải thích |
 | :---: | --- | --- | :---: | --- |
@@ -576,18 +651,31 @@ Khách hàng của quy trình:
 | 3 | **Thừa / Trùng lặp** *(Overdo)* | Gửi thông báo lịch khám qua nhiều kênh trùng lặp mà không có kênh xác nhận tập trung; khám lại các chỉ tiêu cơ bản cho nhân viên vừa khám sức khỏe ở nơi khác trong năm. | Chuẩn hóa một kênh thông báo chính có xác nhận đã đọc; cho phép CBCNV nộp kết quả khám sức khỏe gần nhất (trong 6 tháng) để miễn một số hạng mục trùng lặp. |
 
 4.6.4. Phân tích định lượng
+
 4.6.4.1. Phân tích định lượng về Thời gian (Time Flow Analysis)
+
 Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chính của quy trình: "Kết quả sàng lọc bất thường".
+
 •      Nhánh 1 - Không phát hiện bất thường (giả định 85%): Thủ tục tiếp nhận (15 phút) + Khám lâm sàng và cận lâm sàng song song, lấy nhánh dài hơn (25 phút) + Tổng hợp kết quả (10 phút) = 50 phút.
+
 •      Nhánh 2 - Có bất thường (giả định 15%): 50 phút (như Nhánh 1) + Khám chuyên sâu bổ sung (30 phút) = 80 phút.
+
 => ACT = (0,85 × 50) + (0,15 × 80) = 42,5 + 12 = 54,5 phút/CBCNV.
+
 4.6.4.2. Phân tích định lượng về Chi phí (Cost Flow Analysis)
+
 Ước tính dựa trên đơn giá gói khám: gói cơ bản 350.000 VNĐ/người; khám chuyên sâu bổ sung phát sinh thêm 200.000 VNĐ/người.
+
 •      Chi phí Nhánh 1: C1 = 350.000 VNĐ.
+
 •      Chi phí Nhánh 2: C2 = 350.000 + 200.000 = 550.000 VNĐ.
+
 => AC = (0,85 × 350.000) + (0,15 × 550.000) = 297.500 + 82.500 = 380.000 VNĐ/người.
 
-**Bảng 4.6.3. Phân tích định lượng - Quy trình Khám sức khỏe định kỳ hàng năm**
+
+<p align="center">
+  <b>Bảng 4.6.3. Phân tích định lượng - Quy trình Khám sức khỏe định kỳ hàng năm</b>
+</p>
 
 | Nhánh / Kịch bản quy trình | Xác suất | Thời gian chu kỳ (CT) | Chi phí ước tính (VNĐ) |
 | --- | :---: | :---: | :---: |
@@ -596,22 +684,13 @@ Phân tích Thời gian chu kỳ (Cycle Time - CT) dựa trên nhánh rẽ chín
 | **Trung bình toàn quy trình** | **100%** | **54,5 phút** | **380.000** |
 
 4.6.4.3. Phân tích định lượng về Chất lượng (Quality/Yield Analysis)
+
 Tỷ lệ tham gia khám đúng đợt ước tính đạt 92% so với kế hoạch; 8% còn lại cần sắp xếp lịch khám bổ sung. Tỷ lệ phát hiện bất thường 15% phản ánh hiệu quả sàng lọc sớm nhưng cũng là điểm nghẽn làm tăng CT trung bình. Điểm nghẽn chính: bước tổng hợp kết quả từ hai nhánh khám song song, vì hồ sơ chỉ được lập khi cả hai nhánh đã hoàn tất.
+
 4.6.4.4. Đề xuất cải tiến và nâng cao hiệu suất quy trình
+
 •      Đa dạng hóa khung giờ và địa điểm khám (ca ngoài giờ, khám lưu động) để nâng tỷ lệ tham gia từ 92% lên trên 98%.
+
 •      Số hóa kênh thông báo và xác nhận lịch khám để giảm hoạt động rà soát, nhắc nhở (NVA).
+
 •      Đồng bộ dữ liệu kết quả khám theo thời gian thực giữa hai nhánh song song, ước tính giảm CT trung bình từ 54,5 phút xuống dưới 45 phút/CBCNV.
-
-
-- **CHƯƠNG 5. KẾT LUẬN VÀ ĐỀ XUẤT CẢI TIẾN**
-    - 5.1. Kết quả đạt được của đề tài
-        - 5.1.1. Nền tảng và phương pháp
-        - 5.1.2. Lập bản đồ và kiến trúc quy trình (Process Architecture)
-        - 5.1.3. Phân tích chuyên sâu và bóc tách dữ liệu
-    - 5.2. Hạn chế của đề tài
-    - 5.3. Đề xuất cải tiến tổng thể & Hướng phát triển
-        - 5.3.1. Đề xuất cải tiến tổng thể hệ thống quy trình (To-Be Roadmap)
-            - 5.3.1.1. Số hóa, tự động hóa và tích hợp dữ liệu liền mạch (Loại trừ lãng phí Move & Overdo)
-            - 5.3.1.2. Tái cấu trúc ma trận thẩm quyền (Loại trừ lãng phí Hold)
-            - 5.3.1.3. Tối ưu hóa điều phối chuỗi cung ứng và hiện trường (Loại trừ lãng phí Move & Yield)
-        - 5.3.2. Hướng phát triển tiếp theo của đề tài
